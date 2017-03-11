@@ -235,17 +235,16 @@ header {
 /* --------------------------------------- */
 /* HOW IT WORKS */
 /* --------------------------------------- */
-.steps-box {
-    margin-top: 30px;
-}
 
 .steps-box:first-child {
     text-align: right;
     padding-right: 3%;
+    margin-top: 30px;
 }
 
 .steps-box:last-child {
     padding-left: 3%;
+    margin-top: 70px;
 }
 
 .app-screen {
