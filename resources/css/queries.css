@@ -37,6 +37,8 @@
         margin-left: 0%;
     }
     .plan-price { font-size: 250%; }
+    
+    .contact-form { width: 80%; }
 }
 
 /* Small phones to small tablets: from 481 to 767px */
