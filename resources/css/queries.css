@@ -25,8 +25,18 @@
     
     .app-screen { width: 50%;}
     
-    .icon-small { width: 2px; }
+    .icon-small { 
+        width: 17px;
+        margin-right: 10px;
+    }
+    
     .city-feature { font-size: 90%; }
+    
+    .plan-box {
+        width: 100%;
+        margin-left: 0%;
+    }
+    .plan-price { font-size: 250%; }
 }
 
 /* Small phones to small tablets: from 481 to 767px */
